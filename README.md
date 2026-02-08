@@ -7,7 +7,7 @@ This project focuses on clean design, smooth navigation, and modern web developm
 ---
 
 ##  Live Demo
- *(Add your deployed link here if available)*
+(https://clonecraft-1.preview.emergentagent.com/)
 
 ---
 
